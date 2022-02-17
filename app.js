@@ -18,7 +18,7 @@ class Zodis {
   }
   writeToDiv() {
     if (inputas.length <= 1) {
-      return alert("Irasyk ka nors, negu sunku!");
+      return alert("Irasyk ka nors, negi sunku!");
     } else {
       divas.innerText += " " + inputas.value + ";";
     }
